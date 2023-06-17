@@ -1,1 +1,1 @@
-# Linear_Algebra
+# MIT 18.06 강의를 토대로 공부했습니다. 
